@@ -7,7 +7,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
 
 # URL del archivo CSV en tu repositorio de GitHub
-url = 'https://github.com/tu_usuario/tu_repositorio/raw/main/regresion.csv'
+url = 'https://github.com/AndreaMantuan/RedesNeuronalesArtificiales1/raw/main/regresion.csv'
 
 # Leer el dataset
 df = pd.read_csv(url)
